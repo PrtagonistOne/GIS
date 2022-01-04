@@ -1,0 +1,6 @@
+certifi==2021.10.8
+GDAL==3.4.0
+pip==21.3.1
+pyproj==3.3.0
+setuptools==57.0.0
+wheel==0.36.2
